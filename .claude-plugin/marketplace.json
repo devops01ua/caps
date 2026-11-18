@@ -1,0 +1,13 @@
+{
+  "name": "caps",
+  "owner": { "name": "devops01ua" },
+  "metadata": { "description": "Claude Code plugins by DevOps01." },
+  "plugins": [
+    {
+      "name": "interactive-html-deck",
+      "source": "./plugins/interactive-html-deck",
+      "description": "Presentations as one self-contained HTML file: 16:9 stage, step builds, animated diagrams, notes and a headless-Chrome check of every slide.",
+      "category": "productivity"
+    }
+  ]
+}

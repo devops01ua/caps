@@ -1,0 +1,20 @@
+{
+  "name": "interactive-html-deck",
+  "displayName": "Interactive HTML deck",
+  "version": "0.1.0",
+  "description": "Build presentations as one self-contained HTML file: a fixed 16:9 stage with step builds, animated diagrams (graphs with moving packets, objects moving between boxes, a map of meaning, merging lists, before/after bars), speaker notes, keyboard controls and a headless-Chrome check of every slide.",
+  "author": {
+    "name": "ahrechanychenko"
+  },
+  "license": "MIT",
+  "keywords": [
+    "presentation",
+    "slides",
+    "deck",
+    "html",
+    "animation",
+    "diagram"
+  ],
+  "homepage": "https://github.com/devops01ua/caps",
+  "repository": "https://github.com/devops01ua/caps"
+}
