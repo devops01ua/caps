@@ -4,6 +4,14 @@ A Claude Code plugin with one skill, `interactive-html-deck`. It teaches Claude 
 
 Each deck is a fixed 16:9 stage (1280x720, scaled to the window). Slides build in steps, and diagrams move between steps: packets travel along the edges of an architecture graph, pods move between nodes, points settle on a "map of meaning", ranked lists merge, and bars grow from before to after. Every slide has one message, a one-line scenario under the title, a narration strip that changes with each step, and speaker notes. A deck meant to be read alone opens with the notes visible.
 
+## Install
+
+```
+/plugin install interactive-html-deck --marketplace devops01ua/caps
+```
+
+On older Claude Code: `/plugin marketplace add devops01ua/caps`, then `/plugin install interactive-html-deck@caps`.
+
 ## What is in it
 
 | File | Purpose |
